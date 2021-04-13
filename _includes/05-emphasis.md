@@ -1,3 +1,3 @@
-- Walk or bicycle with a friend
-- Read books
-- Play volleyball
+**- Walk or bicycle with a friend**
+**- Read books**
+**- Play volleyball**
